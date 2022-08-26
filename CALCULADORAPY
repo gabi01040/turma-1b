@@ -1,0 +1,6 @@
+print("eu odeio acordar cedo")
+print("minha calculadora de fisica#")
+print("###################333")
+print("vamosvamos começar calculando o meu IMc")
+peso = float(input("qual é o meu peso?\n"))
+altura = float(input("qual é minha altura"))
